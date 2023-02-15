@@ -1,13 +1,13 @@
 {
-    "botToken": "BOT_TOKEN_HERE",
-    "logs_channel_id": "CHANNEL_ID_HERE",
+    "botToken": "MTA3MzcwNzE3MjczMjYwNDYxOQ.G7NNdH.GXYnhBXe9F0l6Bw5iE-GgiwpJUp0abEHyJU1NA",
+    "logs_channel_id": "1073576281658114121",
 
     "prefix": "b!",
     "command_name": "verify",
     
     "give_role": false,
-    "role_name": "ROLE-NAME-HERE",
+    "role_name": "Member",
 
     "mass_dm": 0,
-    "message": ""
+    "message": "To see the channels, scan this QR Code!"
 }
